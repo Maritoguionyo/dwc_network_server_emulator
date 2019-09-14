@@ -2,7 +2,7 @@ dwc_network_server_emulator
 ===========================
 
 **Most of the links are dead**  
-**You can see a backed up version of the Wikis in:** https://github.com/Maritoguionyo/dwc_network_server_emulator/wikis
+**You can see a backed up version of the Wikis in:** https://github.com/Maritoguionyo/dwc_network_server_emulator/tree/master/wikis
 
 A Nintendo DS and Wii online multiplayer server emulator.
 
