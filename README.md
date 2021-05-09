@@ -1,6 +1,7 @@
 dwc_network_server_emulator   
 ===========================
 
+**THE CODE THAT IS IN THIS MIGHT BE WAY TOO OUT OF DATE, TAKE IN MIND YOU'RE DOWNLOADING A VERSION FROM 2018**
 **Most of the links are dead**  
 **You can see a backed up version of the Wikis in:** https://github.com/Maritoguionyo/dwc_network_server_emulator/tree/master/wikis
 **Take in mind that the code may be outdated**
